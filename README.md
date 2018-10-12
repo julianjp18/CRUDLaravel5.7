@@ -14,3 +14,6 @@
   <li>Ciudad o Municipio</li>
 </ul>
 <p><ins>Nota: </ins> En la base de datos se encuentran los departamentos y municipios de Colombia</p>
+
+<h5>Consejo: crea tu propio proyecto y copia los archivos necesarios a ese. </h5>
+
