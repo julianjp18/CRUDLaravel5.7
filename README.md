@@ -13,4 +13,4 @@
   <li>Dirección</li>
   <li>Ciudad o Municipio</li>
 </ul>
-<p><ins>Nota: </ins> En la base de datos se encuentran los departamentos y municipios de Colombia</p>
+<p><ins>Nota: </ins> En la <a href="https://es.ourcodeworld.com/articulos/leer/87/tablas-de-departamentos-y-municipios-de-colombia-en-formato-sql">base de datos</a> se encuentran los departamentos y municipios de Colombia. tomada de: <a href="https://es.ourcodeworld.com/articulos/leer/87/tablas-de-departamentos-y-municipios-de-colombia-en-formato-sql">aqui</a> </p>
