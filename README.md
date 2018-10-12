@@ -2,7 +2,7 @@
 
 <h1>CRUD en Laravel</h1>
 
-<p>CRUD de usuarios realizado en Laravel v5.7</p>
+<p>CRUD de usuarios realizado en Laravel v5.7 con autenticación de Laravel. </p>
 <p>Datos que se obtiene de los usuarios:</p>
 <ul>
   <li>Nombre</li>
